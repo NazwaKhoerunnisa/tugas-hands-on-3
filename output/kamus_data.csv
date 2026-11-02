@@ -1,0 +1,18 @@
+kolom,tipe,n_missing,n_unik,deskripsi,peran,n_missing_mentah
+employee_id,object,0,1200,ID unik karyawan,kunci,0
+usia,int64,0,38,Usia karyawan (tahun),fitur,30
+jenis_kelamin,category,0,2,Jenis kelamin (Laki-laki / Perempuan),fitur,28
+departemen,category,0,5,Departemen tempat bekerja,"fitur (tidak dipakai di model, redundan dengan jabatan)",31
+jabatan,category,0,17,Jabatan karyawan,fitur,18
+bidang_pendidikan,category,0,6,Bidang pendidikan karyawan,fitur,48
+lama_di_perusahaan_tahun,int64,0,21,Lama bekerja di perusahaan (tahun),fitur,24
+lama_di_jabatan_tahun,int64,0,13,Lama di jabatan saat ini (tahun),fitur,47
+gaji_bulanan_idr,int64,0,1162,Gaji bulanan (Rupiah),fitur,39
+lembur,category,0,2,Apakah karyawan lembur (Ya / Tidak),fitur,38
+kepuasan_kerja,int64,0,4,"Skor kepuasan kerja, skala 1-4 (arti tiap angka tidak dijelaskan di dataset)",fitur,35
+keseimbangan_hidup_kerja,int64,0,4,"Skor keseimbangan hidup-kerja, skala 1-4 (arti tiap angka tidak dijelaskan di dataset)",fitur,50
+kepuasan_lingkungan,int64,0,4,"Skor kepuasan lingkungan kerja, skala 1-4 (arti tiap angka tidak dijelaskan di dataset)",fitur,55
+jumlah_perusahaan_sebelumnya,int64,0,10,Jumlah perusahaan tempat bekerja sebelumnya,fitur,40
+pelatihan_tahun_ini,int64,0,7,Pelatihan pada tahun ini (nilai 0-6),fitur,56
+rating_performa,int64,0,4,"Rating performa, skala 1-4 (arti tiap angka tidak dijelaskan di dataset)",fitur,35
+keluar_perusahaan,category,0,2,Apakah karyawan keluar dari perusahaan (Ya / Tidak),TARGET,0

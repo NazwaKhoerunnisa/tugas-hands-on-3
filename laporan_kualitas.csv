@@ -1,0 +1,9 @@
+tahap,kolom_outlier,jumlah_baris,duplikat_id,total_missing,jumlah_outlier
+Sebelum,usia,1200,0,574,0
+Sebelum,lama_di_perusahaan_tahun,1200,0,574,0
+Sebelum,lama_di_jabatan_tahun,1200,0,574,0
+Sebelum,gaji_bulanan_idr,1200,0,574,0
+Sesudah,usia,1200,0,0,0
+Sesudah,lama_di_perusahaan_tahun,1200,0,0,0
+Sesudah,lama_di_jabatan_tahun,1200,0,0,0
+Sesudah,gaji_bulanan_idr,1200,0,0,0

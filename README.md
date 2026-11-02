@@ -1,6 +1,5 @@
 # Tugas Hands-On 3 – Pandas Lanjutan
 
-## Identitas Mahasiswa
 
 - **Nama:** Nazwa Khoerunnisa
 - **NIM:** 23552011093
@@ -61,6 +60,3 @@ tugas-hands-on-3/
 - **laporan_kualitas.csv**: Berisi laporan perbandingan kualitas data sebelum dan sesudah proses pembersihan.
 
 ---
-
-**Tugas Hands-On 3 – Pandas Lanjutan**  
-Studi Kasus #05 Employee Attrition (HR Analytics)
